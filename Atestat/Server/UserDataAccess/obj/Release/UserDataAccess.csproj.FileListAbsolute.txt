@@ -1,0 +1,11 @@
+C:\Users\Stefania\Desktop\UserDataAccess\bin\Release\UserDataAccess.dll.config
+C:\Users\Stefania\Desktop\UserDataAccess\bin\Release\UserDataAccess.dll
+C:\Users\Stefania\Desktop\UserDataAccess\bin\Release\UserDataAccess.pdb
+C:\Users\Stefania\Desktop\UserDataAccess\bin\Release\EntityFramework.dll
+C:\Users\Stefania\Desktop\UserDataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Stefania\Desktop\UserDataAccess\bin\Release\EntityFramework.xml
+C:\Users\Stefania\Desktop\UserDataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Stefania\Desktop\UserDataAccess\obj\Release\UserDataAccess.csprojAssemblyReference.cache
+C:\Users\Stefania\Desktop\UserDataAccess\obj\Release\UserDataAccess.csproj.CopyComplete
+C:\Users\Stefania\Desktop\UserDataAccess\obj\Release\UserDataAccess.dll
+C:\Users\Stefania\Desktop\UserDataAccess\obj\Release\UserDataAccess.pdb
